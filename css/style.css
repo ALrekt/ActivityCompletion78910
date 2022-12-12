@@ -70,7 +70,7 @@ p {
 }
 
 #hero {
-  background: url("/image/hero_image.jpg") no-repeat center/cover;
+  background: url("image/hero_image.jpg") no-repeat center/cover;
   height: 600px;
 }
 
@@ -144,7 +144,7 @@ p {
 }
 
 #testimonials {
-  background: url(/image/section.jpg) no-repeat center/cover;
+  background: url(image/section.jpg) no-repeat center/cover;
   height: 600px;
   overflow: hidden;
 }
@@ -197,5 +197,3 @@ footer {
   color: #fff;
   text-align: center;
 }
-
-
