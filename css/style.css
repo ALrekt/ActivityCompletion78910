@@ -70,7 +70,8 @@ p {
 }
 
 #hero {
-  background: url(/image/hero_image.jpg) no-repeat center/cover;
+  background: url(https://alrekt.github.io/ActivityCompletion78910/image/hero_image.jpg)
+    no-repeat center/cover;
   height: 600px;
 }
 
@@ -141,12 +142,6 @@ p {
 }
 #about a.c-btn:hover {
   color: #ffb570;
-}
-
-#testimonials {
-  background: url(image/section.jpg) no-repeat center/cover;
-  height: 600px;
-  overflow: hidden;
 }
 
 #testimonials .testimonial img {
