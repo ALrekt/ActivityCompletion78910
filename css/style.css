@@ -70,7 +70,7 @@ p {
 }
 
 #hero {
-  background: url("/image/hero_image.jpg") no-repeat center/cover;
+  background: url("hero_image.jpg") no-repeat center/cover;
   height: 600px;
 }
 
